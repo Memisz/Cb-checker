@@ -3,7 +3,7 @@ import requests
 import queue
 import json
 
-from styling import Color
+from styler import Color
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
